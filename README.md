@@ -71,7 +71,7 @@ Optimized Random Forest Algorithm, achieving 96.5% accuracy and enhanced general
 
 ## 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![RajShubham0](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
 
 
