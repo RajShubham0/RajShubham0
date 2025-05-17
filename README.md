@@ -38,7 +38,7 @@ Hello! I’m Shubham Raj, a passionate Software Developer, with a strong focus o
 
 ## 📫 How to Reach Me
 
-- **Email**: [shubu17225@gmail.com](mailto:your-email@example.com)
+- **Email**: [meshubham111213@gmail.com, shubu17225@gmail.com](mailto:your-email@example.com)
 - **LinkedIn**: [https://www.linkedin.com/in/shubham-raj-428538201/](https://linkedin.com/in/yourprofile)
 - **Website/Portfolio**: [yourwebsite.com](https://yourwebsite.com)
 
